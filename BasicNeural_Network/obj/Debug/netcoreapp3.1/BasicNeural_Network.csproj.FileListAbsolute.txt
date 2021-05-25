@@ -1,0 +1,13 @@
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\bin\Debug\netcoreapp3.1\BasicNeural_Network.exe
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\bin\Debug\netcoreapp3.1\BasicNeural_Network.deps.json
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\bin\Debug\netcoreapp3.1\BasicNeural_Network.runtimeconfig.json
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\bin\Debug\netcoreapp3.1\BasicNeural_Network.runtimeconfig.dev.json
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\bin\Debug\netcoreapp3.1\BasicNeural_Network.dll
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\bin\Debug\netcoreapp3.1\BasicNeural_Network.pdb
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\obj\Debug\netcoreapp3.1\BasicNeural_Network.csprojAssemblyReference.cache
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\obj\Debug\netcoreapp3.1\BasicNeural_Network.AssemblyInfoInputs.cache
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\obj\Debug\netcoreapp3.1\BasicNeural_Network.AssemblyInfo.cs
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\obj\Debug\netcoreapp3.1\BasicNeural_Network.csproj.CoreCompileInputs.cache
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\obj\Debug\netcoreapp3.1\BasicNeural_Network.dll
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\obj\Debug\netcoreapp3.1\BasicNeural_Network.pdb
+C:\Users\Ofir\source\repos\BasicNeural_Network\BasicNeural_Network\obj\Debug\netcoreapp3.1\BasicNeural_Network.genruntimeconfig.cache
